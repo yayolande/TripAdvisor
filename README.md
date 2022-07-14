@@ -1,10 +1,10 @@
-#TripAdvisor (Java App/CLI)
+# TripAdvisor (Java App/CLI)
 ![TripAdvisor Screenshoot](./img/tripAdvisorMenu.png)
 
 This little application allows the client to check the details of all local trips available inside the Country.
 Unfortunately, the database is offline, and must be populated to be properly used. Perhaps in the future I will make an improvement regarding that matter.
 
-One more thing ! This app have been extensively tested on `Linux` Operating System. Although it work on `Windows` as well, it does not guarantee the *quality of the UI*.
+One more thing ! This app have been extensively tested on `Linux` Operating System. Although it work on `Windows` as well, I do not guarantee the *quality of the UI*.
 
 ## Installation
 
