@@ -1,0 +1,2 @@
+javac -d dist src\*.java
+xcopy src\files_db \dist

@@ -1,0 +1,26 @@
+//
+// id | Departure | Arrival | Price (XAF) | Date | Time dep. | Time arr. | nb Seat
+//
+
+1,yaounde,douala,5000,2022-12-28T20:00,85
+2,yaounde,buea,85000,2022-12-29T15:00,39
+3,yaounde,douala,5000,2022-12-12T12:00,121
+4,yaounde,bertoua,9000,2022-12-24T23:00,65
+5,yaounde,douala,4000,2022-12-29T23:00,15
+6,yaounde,ngoundere,8500,2022-12-28T23:00,26
+7,yaounde,bafoussam,3000,2022-12-27T23:00,21
+8,yaounde,bankomo,2500,2023-02-27T23:00,3
+9,yaounde,kribi,4500,2023-02-25T23:00,10
+10,yaounde,esaka,4500,2023-02-24T23:00,17
+11,yaounde,limbe,4000,2023-02-23T23:00,33
+12,yaounde,kaele,8000,2023-02-22T23:00,86
+13,yaounde,maroua,6000,2023-02-20T23:00,11
+14,douala,konsamba,5000,2022-12-04T00:00,17
+15,yaounde,konsamba,6000,2023-01-07T00:00,21
+16,yaounde,lomie,2500,2023-06-07T11:00,4
+17,yaounde,wouri,5000,2023-06-07T11:00,34
+18,yaounde,lekie,3000,2023-06-07T11:00,13
+19,yaounde,douala,4000,2022-12-29T11:00,1
+20,yaounde,stevecity,0,2022-12-27T12:58:43.412,0
+21,yaounde,yamocity,0,2022-12-27T13:02:43.690,0
+22,yaounde,yamocity,0,2022-10-27T13:02:43.690,0

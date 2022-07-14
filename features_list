@@ -1,0 +1,4 @@
+
+* The app is not user friendly. The commands are difficult to came by. Put a help manual in-app and command manual in readme
+* remove magic string from db (getDatabaseResultFromQuery), use variable or config file
+* Try to use Generic for TRIP, CLIENT, TICKET classes
