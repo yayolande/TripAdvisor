@@ -1,8 +1,6 @@
 <p align="center">
 	<img src="https://img.shields.io/tokei/lines/github/yayolande/TripAdvisor">
-
 	<img src="https://img.shields.io/github/commit-activity/y/yayolande/TripAdvisor">
-
 	<img src="https://img.shields.io/github/last-commit/yayolande/TripAdvisor">
 </p>
 
@@ -10,9 +8,12 @@
 <p align="center"><img src="https://img.shields.io/badge/Windows-not%20fully%20supported-red?style=for-the-badge"></p>
 -->
 
+<!-- 
 [//]: # (I used 'p' tag fot the badges because I needed to center the element.)
 [//]: # (Otherwise, a good image old image with markdown syntax will have worked.)
 [//]: # (eg: ![commit activity a year](https://img.shields.io/tokei/lines/github/yayolande/TripAdvisor))
+
+-->
 
 # TripAdvisor (Java App/CLI)
 ![TripAdvisor Screenshoot](./img/tripAdvisorMenu.png)
@@ -33,7 +34,7 @@ Once done, follow the procedure according to your Operating System.
 
 Open the terminal in the repository directory.
 
-```
+```bash
 chmod +x install.sh
 ./install.sh
 ```
